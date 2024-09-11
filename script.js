@@ -15,8 +15,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const weatherBody = document.querySelector(".weather-body");
   const locationNotFound = document.querySelector(".location-not-found");
 
-  const weatherappid = "c7f34515fe1bd5988a5a725b1fb356cf";
-  const timezoneappid = "O2JNP3ZV1W5A";
+  const weatherappid = "YOUR_API_KEY";
+  const timezoneappid = "YOUR_API_KEY";
 
   async function checkWeather(city) {
     var weather_data;

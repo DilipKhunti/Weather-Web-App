@@ -59,6 +59,6 @@ This is a simple weather application that allows users to search for weather con
 
 ## Future Enhancements
 
-- Add support for different languages.
-- Provide a weekly weather forecast.
-- Improve mobile responsiveness.
+- Add support for different languages
+- Provide a weekly weather forecast
+- Improve mobile responsiveness

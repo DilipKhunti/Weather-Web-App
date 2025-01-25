@@ -25,7 +25,7 @@ This is a simple weather application that allows users to search for weather con
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/DilipKhunti/Weather-Web-App.git
    cd weather-app
    ```
 
